@@ -1,0 +1,3 @@
+color=("red","yellow","blue","blue","blue")
+count=color.count('blue')
+print('the count of blue is:',count)
