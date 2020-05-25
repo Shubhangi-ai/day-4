@@ -1,0 +1,3 @@
+colors ={"red":3, "blue":15,
+"pink":9,"violet":19}
+print(list(sorted(colors.values()))[-2])
