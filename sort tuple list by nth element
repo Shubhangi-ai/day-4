@@ -1,0 +1,4 @@
+tuples= [ ('red',20), ('yellow', 65), ('blue', 10), ('pink', 6), ('green', 5) ]
+tuples.sort()
+print("sort")
+print(tuples)
